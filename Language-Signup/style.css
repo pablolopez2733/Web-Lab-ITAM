@@ -1,0 +1,19 @@
+#encabezado
+{
+    text-align: center;
+    
+
+}
+.contenedoridiomas
+{
+    position: absolute;
+    top: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+#divbotonAceptar
+{
+    text-align: center;
+}
