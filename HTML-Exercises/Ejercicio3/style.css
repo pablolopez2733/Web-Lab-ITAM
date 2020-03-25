@@ -1,0 +1,17 @@
+.tablero {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100vmax;
+    height: 100vmin;
+    background-color: black;
+  }
+  .tablero > div {
+    width: 20vmax;
+    height: 20vmax;
+    background-color:rgb(255, 59, 255);
+    margin: 0;
+  }
+  div:nth-child(even){
+    background-color:rgb(4, 196, 255);
+  }
