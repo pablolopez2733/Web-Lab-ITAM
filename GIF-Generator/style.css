@@ -1,0 +1,17 @@
+
+.divBoton{
+    height: 20%;
+}
+.contenedorTarjetas{
+    position: relative;
+    top: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+
+
+
